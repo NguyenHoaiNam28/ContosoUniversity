@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\PDH\\ContosoUniversity\\ContosoUniversity.csproj",
+  "FilePath": "c:\\Users\\PDH\\Downloads\\ContosoUniversity\\ContosoUniversity.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,63 +16298,63 @@
   "RootNamespace": "ContosoUniversity",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\PDH\\ContosoUniversity\\Pages\\Students\\Index.cshtml",
-      "TargetPath": "Pages\\Students\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\ContosoUniversity\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\ContosoUniversity\\Pages\\Students\\Delete.cshtml",
-      "TargetPath": "Pages\\Students\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\ContosoUniversity\\Pages\\Students\\Create.cshtml",
-      "TargetPath": "Pages\\Students\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\ContosoUniversity\\Pages\\Students\\Details.cshtml",
-      "TargetPath": "Pages\\Students\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\ContosoUniversity\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PDH\\ContosoUniversity\\Pages\\Students\\Edit.cshtml",
+      "FilePath": "c:\\Users\\PDH\\Downloads\\ContosoUniversity\\Pages\\Students\\Edit.cshtml",
       "TargetPath": "Pages\\Students\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PDH\\ContosoUniversity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\PDH\\Downloads\\ContosoUniversity\\Pages\\Students\\Index.cshtml",
+      "TargetPath": "Pages\\Students\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PDH\\ContosoUniversity\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\PDH\\Downloads\\ContosoUniversity\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PDH\\ContosoUniversity\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\PDH\\Downloads\\ContosoUniversity\\Pages\\Students\\Delete.cshtml",
+      "TargetPath": "Pages\\Students\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\PDH\\Downloads\\ContosoUniversity\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PDH\\ContosoUniversity\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\PDH\\Downloads\\ContosoUniversity\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\PDH\\Downloads\\ContosoUniversity\\Pages\\Students\\Create.cshtml",
+      "TargetPath": "Pages\\Students\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\PDH\\Downloads\\ContosoUniversity\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PDH\\ContosoUniversity\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\PDH\\Downloads\\ContosoUniversity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\PDH\\Downloads\\ContosoUniversity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\PDH\\Downloads\\ContosoUniversity\\Pages\\Students\\Details.cshtml",
+      "TargetPath": "Pages\\Students\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\PDH\\Downloads\\ContosoUniversity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     }
   ],
